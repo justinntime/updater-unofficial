@@ -1,3 +1,11 @@
-Changelog
+DERPFEST 15.1 | Android 15 QPR1
+Maintainer: just_inntime
 
-- Testing for OTA
+
+02-19-2025 Changelog
+- Introduced ViPER4AndroidFX
+- Introduced Island notifications
+- Configured OTA to work for future releases
+- Adjusted statusbar paddings
+- Fixed adaptive refresh rate
+- Fixed volume and brightness slider vibrations
