@@ -5,6 +5,7 @@ Maintainer: just_inntime
 02-19-2025 Changelog
 - Introduced ViPER4AndroidFX
 - Introduced Island notifications
+- Introduced Ongoing action chip
 - Configured OTA to work for future releases
 - Adjusted statusbar paddings
 - Fixed adaptive refresh rate
