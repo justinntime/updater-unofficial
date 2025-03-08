@@ -1,12 +1,15 @@
-DERPFEST 15.1 Unofficial | Samsung Galaxy A52s 5G
+DERPFEST 15.1 Official | Samsung Galaxy A52s 5G
 Maintainer: just_inntime
 
 
-02-19-2025 Changelog
+03-09-2025 Changelog
+- Bug: 
+  Portrait notifications only toggleable between compact or island
+
+- Merged March security path
 - Introduced ViPER4AndroidFX
 - Introduced Island notifications
 - Introduced Ongoing action chip
-- Configured OTA to work for future releases
 - Adjusted statusbar paddings
 - Fixed adaptive refresh rate
 - Fixed volume and brightness slider vibrations
