@@ -6,7 +6,7 @@ Maintainer: just_inntime
 - Bug: 
   Portrait notifications only toggleable between compact or island
 
-- Merged March security path
+- Merged March security patch
 - Introduced ViPER4AndroidFX
 - Introduced Island notifications
 - Introduced Ongoing action chip
