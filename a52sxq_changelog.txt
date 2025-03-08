@@ -4,7 +4,7 @@ Maintainer: just_inntime
 
 03-09-2025 Changelog
 - Bug: 
-  Portrait notifications only toggleable between compact or island
+  Notifications only toggleable between compact or island
 
 - Merged March security patch
 - Introduced ViPER4AndroidFX
