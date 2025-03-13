@@ -7,10 +7,11 @@ Changelog:
 - Fixed heads-up notifications
 - Fixed hotspot functionality
 
+----------------------------------------------------------
+
 03-09-2025
 - Bug: 
   Notifications only toggleable between compact or island
-
 - Merged March security patch
 - Introduced ViPER4AndroidFX
 - Introduced Island notifications
